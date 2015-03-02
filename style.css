@@ -18,6 +18,10 @@ body {
   font-size: 16px;
 }
 
+.navbar-nav>li>a {
+  color: #999 !important;
+}
+
 
 .well {
   background-color: #710c0c;
