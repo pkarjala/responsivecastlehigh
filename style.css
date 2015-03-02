@@ -1,0 +1,45 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #999;
+  background-color: gray;
+}
+
+.header {
+  background-image: url('header.jpg');
+  background-repeat: no-repeat;
+  height: 140px;
+}
+
+.navbar {
+  background-color: #710c0c;
+  color: #999;
+  border: 0px;
+  font-size: 16px;
+}
+
+
+.well {
+  background-color: #710c0c;
+  color: #999;
+  border: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+dd {
+  margin-bottom: 10px;
+}
+
+.center_text {
+  text-align: center;
+}
+
+.knight_pride {
+  background-image: url('frontpage.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
