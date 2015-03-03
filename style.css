@@ -25,6 +25,10 @@ body {
   border: 0px;
 }
 
+ul {
+  list-style: none;
+}
+
 .knight-pride {
   background-image: url('frontpage.jpg');
   height: 400px;
